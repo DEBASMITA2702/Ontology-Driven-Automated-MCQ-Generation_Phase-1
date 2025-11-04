@@ -1,0 +1,367 @@
+question,correct_answer,distractors,source_template
+Name an actor from Horse Feathers.,Chico Marx,"Nellie Bly Baker, Friedrich Feher, Lew Ayres",Actor Question
+Who directed the movie the Shop Around the Corner?,Ernst Lubitsch,"Alfred Hitchcock, James Whale, Howard Hawks",Director Question
+"Through the connection Fred Astaire → Funny Face → ?, which final entity emerges?",Robert Flemyng,"Modern Times, P G, Paramount Pictures",Relational Chain
+"Name an actor from Dracula, a film by Tod Browning.",Dwight Frye,"Groucho Marx, Emilie Kurz, Boris Karloff",Director-Actor Chain
+Which director was responsible for Belle De Jour?,Luis Buñuel,"Howard Hawks, Jean Renoir, Leo McCarey",Director Question
+Who starred in Safety Last?,Bill Strother,"Boris Karloff, Beulah Bains, Malcolm Waite",Actor Question
+Identify the director of I Confess.,Alfred Hitchcock,"Jean Vigo, George Stevens, Howard Hawks",Director Question
+Which director was responsible for mutiny on the Bounty?,Frank Lloyd,"Alfred Hitchcock, Charles Chaplin, Carl Theodor Dreyer",Director Question
+Who starred in Duck Soup?,Groucho Marx,"Mae Clarke, André Berley, Charles Chaplin",Actor Question
+Who was in the cast of Metropolis?,Alfred Abel,"Maly Delschaft, Charles Chaplin, F A Turner",Actor Question
+"Name an actor from The General, a film by Clyde Bruckman.",Buster Keaton,"Grigoriy Aleksandrov, Maly Delschaft, Eugene Silvain",Director-Actor Chain
+Which director was responsible for an Affair to Remember?,Leo Mc Carey,"Carl Theodor Dreyer, Charles Reisner, Victor Heerman",Director Question
+When was Larry Forrester released?,1924,"1899, 1925, 1923",Release Date
+Identify the director of strangers on a Train.,Alfred Hitchcock,"Victor Heerman, George Stevens, Howard Hawks",Director Question
+Which actor appeared in the Cabinet of Dr Caligari?,Friedrich Feher,"Florence Lee, Mary Philbin, Mildred Davis",Actor Question
+Identify the release date of James Vance Marshall.,1924,"1899, 1925, 1923",Release Date
+"Through the connection Michel Auclair → Funny Face → ?, which final entity emerges?",Kay Thompson,"Stanley Donen, English, The Night of the Hunter",Relational Chain
+What is the release year of Martha Hyer?,1924,"1899, 1925, 1923",Release Date
+"Name an actor from The Gold Rush, a film by Charles Chaplin.",Charles Chaplin,"Mae Marsh, Henry Bergman, Maly Delschaft",Director-Actor Chain
+King Kong was directed by whom?,Ernest B Schoedsack,"Jean Renoir, Frank Capra, Sam Taylor",Director Question
+"Given that Michel Auclair is related to Funny Face, and Funny Face is related to United States of America, what is the final entity connected to Michel Auclair?",United States of America,"Leonard Gershe, Audrey Hepburn, John Guillermin",Relational Chain
+Who was in the cast of Modern Times?,Henry Bergman,"Alfred Abel, Chico Marx, Joe Keaton",Actor Question
+Who directed the movie The Awful Truth?,Leo Mc Carey,"Jean Renoir, Luis Buñuel, Ernst Lubitsch",Director Question
+When was Robert E Thompson released?,1924,"1899, 1925, 1923",Release Date
+When was Ernest Haycox released?,1899,"1924, 1900, 1898",Release Date
+Who was in the cast of Steamboat Bill Jr?,Tom Mc Guire,"Chico Marx, Alfred Abel, Eugene Silvain",Actor Question
+Who was in the cast of City Lights?,Harry Myers,"Marlene Dietrich, Jim Farley, Lew Ayres",Actor Question
+In which year did Ivo Garrani come out?,1924,"1899, 1925, 1923",Release Date
+"Name an actor from l' Age d' Or, a film by Luis Buñuel.",Gaston Modot,"Mary Philbin, Emilie Kurz, The Marx Brothers",Director-Actor Chain
+Which actor appeared in D W Griffith's film intolerance Love's Struggle Throughout the Ages?,Robert Harron,"Buster Keaton, Jack Adams, Ivan Bobrov",Director-Actor Chain
+"Given that Fred Astaire is related to Funny Face, and Funny Face is related to French, what is the final entity connected to Fred Astaire?",French,"Robert Flemyng, United States of America, Modern Times",Relational Chain
+man with a Movie Camera was directed by whom?,Dziga Vertov,"Richard Rosson, Howard Hawks, Lewis Milestone",Director Question
+Identify the director of Monsieur Verdoux.,Charles Chaplin,"Rouben Mamoulian, Alfred Hitchcock, Ernst Lubitsch",Director Question
+"In The Circus directed by Charles Chaplin, who was one of the main actors?",George Davis,"The Marx Brothers, Malcolm Waite, Buster Keaton",Director-Actor Chain
+Name an actor from Duck Soup.,Harpo Marx,"Charles Chaplin, Boris Karloff, Steve Murphy",Actor Question
+Identify the director of Viridiana.,Luis Buñuel,"Richard Rosson, Alfred Hitchcock, Sam Wood",Director Question
+Who directed the movie the Young and the Damned?,Luis Buñuel,"Karl Freund, Michael Curtiz, Merian C. Cooper",Director Question
+"If Fred Astaire connects through The Towering Inferno, which entity is ultimately linked?",20th Century Fox,"United States of America, NOT RATED, Stanley Donen",Relational Chain
+Which actor appeared in Clyde Bruckman's film The General?,Jim Farley,"Ernest Torrence, Mae Marsh, Werner Krauss",Director-Actor Chain
+Which actor appeared in Buster Keaton's film The General?,Jim Farley,"Harry Myers, Tom Lewis, Buster Keaton",Director-Actor Chain
+Identify the release date of Frédéric Grendel.,1924,"1899, 1925, 1923",Release Date
+"In Battleship Potemkin directed by Sergei M Eisenstein, who was one of the main actors?",Ivan Bobrov,"Marlene Dietrich, Camilla Horn, Colin Clive",Director-Actor Chain
+Hatari was directed by whom?,Howard Hawks,"Luis Buñuel, Alfred Hitchcock, James Whale",Director Question
+What is the release year of Terry Southern?,1924,"1899, 1925, 1923",Release Date
+Which director was responsible for Duck Soup?,Leo Mc Carey,"Buster Keaton, Fritz Lang, Alfred Hitchcock",Director Question
+What is the release year of Mel Welles?,1924,"1899, 1925, 1923",Release Date
+Identify the director of the Man Who Knew Too Much.,Alfred Hitchcock,"Buster Keaton, Charles Chaplin, Fritz Lang",Director Question
+Identify the director of a Place in the Sun.,George Stevens,"Ernst Lubitsch, Luis Buñuel, Ernest B. Schoedsack",Director Question
+"If Irwin Allen connects through The Towering Inferno, which entity is ultimately linked?",20th Century Fox,"Comedy, English, French",Relational Chain
+Spellbound was directed by whom?,Alfred Hitchcock,"W.S. Van Dyke, F W Murnau, Sam Wood",Director Question
+When was Randy Stuart released?,1924,"1899, 1925, 1923",Release Date
+Which actor appeared in Josef Von Sternberg's film The Blue Angel?,Rosa Valetti,"Camilla Horn, Charles Chaplin, Groucho Marx",Director-Actor Chain
+What is the release year of Clemens Scheitz?,1899,"1924, 1900, 1898",Release Date
+In which year did Frank Vosper come out?,1899,"1924, 1900, 1898",Release Date
+Who starred in Vampyr?,Maurice Schutz,"Marion Mack, Conrad Veidt, Arnold Lucy",Actor Question
+"Name an actor from a Night at the Opera, a film by Edmund Goulding.",Groucho Marx,"John Rand, David Manners, Maly Delschaft",Director-Actor Chain
+North By Northwest was directed by whom?,Alfred Hitchcock,"Howard Hawks, Charles Chaplin, Lon Chaney",Director Question
+"Given that Kay Thompson is related to Funny Face, and Funny Face is related to Leonard Gershe, what is the final entity connected to Kay Thompson?",Leonard Gershe,"John Guillermin, Stirling Silliphant, United States of America",Relational Chain
+"In Safety Last directed by Fred C Newmeyer, who was one of the main actors?",Harold Lloyd,"Camilla Horn, Harpo Marx, Bela Lugosi",Director-Actor Chain
+Sabotage was directed by whom?,Alfred Hitchcock,"William A. Wellman, Charles Chaplin, Josef von Sternberg",Director Question
+What is the release year of Saradindu Bandopadhyay?,1899,"1924, 1900, 1898",Release Date
+"Name an actor from Sherlock Jr, a film by Buster Keaton.",Erwin Connelly,"Merna Kennedy, Arthur Edmund Carewe, Tom Lewis",Director-Actor Chain
+Which director was responsible for Notorious?,Alfred Hitchcock,"Luis Buñuel, Frank Capra",Director Question
+the Thing from Another World was directed by whom?,Howard Hawks,"Alfred Hitchcock, Frank Capra",Director Question
+In which year did Alan Le May come out?,1899,"1924, 1900, 1898",Release Date
+Which director was responsible for White Christmas?,Michael Curtiz,"Alfred Hitchcock, Howard Hawks, Rouben Mamoulian",Director Question
+Which actor appeared in a Night at the Opera?,Chico Marx,"Albert Austin, Mae Marsh, Kurt Gerron",Actor Question
+Identify the director of The Birds.,Alfred Hitchcock,"Ernst Lubitsch, Ernest B. Schoedsack, Michael Curtiz",Director Question
+Which actor appeared in Sherlock Jr?,Joe Keaton,"Henry Bergman, Maly Delschaft, Chico Marx",Actor Question
+Which director was responsible for The Big Sleep?,Howard Hawks,"Clyde Bruckman, Dziga Vertov, Ernst Lubitsch",Director Question
+Which director was responsible for the Phantom of Liberty?,Luis Buñuel,"Michael Curtiz, Charles Chaplin, Alfred Hitchcock",Director Question
+Who starred in the Passion of Joan of Arc?,Maurice Schutz,"Arthur Edmund Carewe, John Wray, Charles Chaplin",Actor Question
+Which actor appeared in Charles Chaplin's film The Circus?,Charles Chaplin,"Boris Karloff, Henry Bergman, Buster Keaton",Director-Actor Chain
+Who was in the cast of Nosferatu?,Max Schreck,"Charles Chaplin, André Berley, Buster Keaton",Actor Question
+"In l' Age d' Or directed by Luis Buñuel, who was one of the main actors?",Lya Lys,"Frida Richard, Mack Swain, Chico Marx",Director-Actor Chain
+Which actor appeared in The Mummy?,Boris Karloff,"Mae Clarke, Bela Lugosi, Buster Keaton",Actor Question
+Identify the director of Scarface.,Richard Rosson,"Archie Mayo, Fritz Lang, Alfred Hitchcock",Director Question
+The Exterminating Angel was directed by whom?,Luis Buñuel,"George Stevens, Howard Hawks, Frank Lloyd",Director Question
+"In all Quiet on the Western Front directed by Lewis Milestone, who was one of the main actors?",Louis Wolheim,"Bela Lugosi, Lillian Gish, Bodil Rosing",Director-Actor Chain
+"Given that Robert Flemyng is related to Funny Face, and Funny Face is related to Comedy, what is the final entity connected to Robert Flemyng?",Comedy,"Leonard Gershe, French, United States of America",Relational Chain
+The Gold Rush was directed by whom?,Charles Chaplin,"Fritz Lang, Archie Mayo, Michael Curtiz",Director Question
+What is the release year of Harold Jack Bloom?,1924,"1899, 1925, 1923",Release Date
+"Through the connection Fred Astaire → The Towering Inferno → ?, which final entity emerges?",John Guillermin,"Intolerance: Love's Struggle Throughout the Ages, Stanley Donen, P G",Relational Chain
+Which director was responsible for Modern Times?,Charles Chaplin,"Frank Capra, Alfred Hitchcock, Luis Buñuel",Director Question
+Foreign Correspondent was directed by whom?,Alfred Hitchcock,"James Whale, D W Griffith, Carl Theodor Dreyer",Director Question
+"Name an actor from Sherlock Jr, a film by Buster Keaton.",Buster Keaton,"Groucho Marx, Rosa Valetti, Charles Chaplin",Director-Actor Chain
+Which actor appeared in Charles Chaplin's film The Circus?,Henry Bergman,"George Davis, Harpo Marx, Mildred Davis",Director-Actor Chain
+What is the release year of Erich Kästner?,1899,"1924, 1900, 1898",Release Date
+When was Jack Weston released?,1924,"1899, 1925, 1923",Release Date
+Who directed the movie Ninotchka?,Ernst Lubitsch,"Michael Curtiz, Luis Buñuel, Josef von Sternberg",Director Question
+"Name an actor from The Gold Rush, a film by Charles Chaplin.",Frank Aderias,"Louis Wolheim, Emil Jannings, Max Ernst",Director-Actor Chain
+Which director was responsible for Safety Last?,Fred C Newmeyer,"Jean Vigo, Alfred Hitchcock",Director Question
+Name an actor from The Gold Rush.,Henry Bergman,"Alexander Granach, Buster Keaton, Bela Lugosi",Actor Question
+Identify the release date of Walter Wager.,1924,"1899, 1925, 1923",Release Date
+Which actor appeared in The Gold Rush?,Jack Adams,"Charles Chaplin, Werner Krauss, Bela Lugosi",Actor Question
+Name an actor from intolerance Love's Struggle Throughout the Ages.,F A Turner,"Caridad de Laberdesque, Bill Strother, Edna Purviance",Actor Question
+Name an actor from Modern Times.,Charles Chaplin,"Jack Adams, Lon Chaney, Mildred Davis",Actor Question
+"Through the connection Fred Astaire → Funny Face → ?, which final entity emerges?",Fred Astaire,"Leonard Gershe, Stirling Silliphant, English",Relational Chain
+Who starred in The Kid?,Albert Austin,"Ernest Torrence, Maly Delschaft, Al Ernest Garcia",Actor Question
+"If Robert Flemyng connects through Funny Face, which entity is ultimately linked?",NOT RATED,"Fred Astaire, Limelight, The Cabinet of Dr. Caligari",Relational Chain
+Who was in the cast of The Wolf Man?,Bela Lugosi,"Tom McGuire, Gösta Ekman, Marion Mack",Actor Question
+Which actor appeared in Buster Keaton's film Steamboat Bill Jr?,Ernest Torrence,"Marlene Dietrich, Al Ernest Garcia, Groucho Marx",Director-Actor Chain
+"In Duck Soup directed by Leo Mc Carey, who was one of the main actors?",Harpo Marx,"Lillian Gish, The Marx Brothers, Jack Adams",Director-Actor Chain
+Identify the release date of Akim Tamiroff.,1899,"1924, 1900, 1898",Release Date
+Who starred in the Cabinet of Dr Caligari?,Werner Krauss,"Mildred Davis, Edward Biby, Gustav von Wangenheim",Actor Question
+Which actor appeared in the Phantom of the Opera?,Lon Chaney,"Mildred Davis, Jim Farley, F A Turner",Actor Question
+When was Donatas Banionis released?,1924,"1899, 1925, 1923",Release Date
+"Name an actor from The Blue Angel, a film by Josef Von Sternberg.",Emil Jannings,"Aleksandr Antonov, Chico Marx, Harpo Marx",Director-Actor Chain
+Who was in the cast of Sunrise?,Janet Gaynor,"Friedrich Feher, David Manners, Groucho Marx",Actor Question
+"Name an actor from The Kid, a film by Charles Chaplin.",Beulah Bains,"Werner Krauss, Dwight Frye, Margaret Livingston",Director-Actor Chain
+Identify the release date of Michel Constantin.,1924,"1899, 1925, 1923",Release Date
+What is the release year of Walter Ladengast?,1899,"1924, 1900, 1898",Release Date
+Who starred in The Kid?,Charles Chaplin,"Lew Ayres, Lon Chaney, Alexander Granach",Actor Question
+"If Robert Flemyng connects through Funny Face, which entity is ultimately linked?",Stanley Donen,"English, P G, French",Relational Chain
+Who starred in The Blue Angel?,Kurt Gerron,"Bodil Rosing, Henry Bergman, Lil Dagover",Actor Question
+Identify the director of to Have and Have Not.,Howard Hawks,"D W Griffith, Michael Curtiz, Charles Chaplin",Director Question
+Identify the release date of Cicely Tyson.,1924,"1899, 1925, 1923",Release Date
+"Given that Intolerance: Love's Struggle Throughout the Ages is related to Tod Browning, and Tod Browning is related to Dracula, what is the final entity connected to Intolerance: Love's Struggle Throughout the Ages?",Dracula,"Stanley Donen, John Guillermin",Relational Chain
+Identify the release date of Geraldine Page.,1924,"1899, 1925, 1923",Release Date
+The Circus was directed by whom?,Charles Chaplin,"Frank Lloyd, Alfred Hitchcock, Clyde Bruckman",Director Question
+In which year did Mervyn Johns come out?,1899,"1924, 1900, 1898",Release Date
+King Kong was directed by whom?,Merian C Cooper,"Archie Mayo, Charles Reisner, Tod Browning",Director Question
+Which director was responsible for The General?,Buster Keaton,"Jean Vigo, Howard Hawks, Alfred Hitchcock",Director Question
+Which director was responsible for His Girl Friday?,Howard Hawks,"Sam Taylor, Mark Sandrich, Fritz Lang",Director Question
+When was Benny Hill released?,1924,"1899, 1925, 1923",Release Date
+Which actor appeared in the Phantom of the Opera?,Norman Kerry,"Bodil Rosing, Glen Cavender, Steve Murphy",Actor Question
+"Name an actor from Metropolis, a film by Fritz Lang.",Gustav Fröhlich,"Carl Miller, Edna Purviance, Ivan Bobrov",Director-Actor Chain
+Identify the release date of Lee Marvin.,1924,"1899, 1925, 1923",Release Date
+Who was in the cast of Dracula?,Dwight Frye,"Florence Lee, Albert Austin, Henry Bergman",Actor Question
+Which actor appeared in City Lights?,Virginia Cherrill,"Kurt Gerron, Harpo Marx, Bela Lugosi",Actor Question
+Who starred in Ninotchka?,Bela Lugosi,"Chico Marx, Vladimir Barskiy, Harry Myers",Actor Question
+Who directed the movie the Phantom of the Opera?,Edward Sedgwick,"Tod Browning, Carl Theodor Dreyer, F W Murnau",Director Question
+Steamboat Bill Jr was directed by whom?,Charles Reisner,"Frank Capra, James Whale, Alfred Hitchcock",Director Question
+Who starred in l' Age d' Or?,Max Ernst,"Charles Chaplin, Caridad de Laberdesque, Glen Cavender",Actor Question
+"If Fred Astaire connects through Funny Face, which entity is ultimately linked?",English,"20th Century Fox, Stanley Donen, The Great Dictator",Relational Chain
+"In The Mummy directed by Karl Freund, who was one of the main actors?",Boris Karloff,"David Manners, Georgia Hale, Harry Myers",Director-Actor Chain
+What is the release year of Robert Sterner?,1899,"1924, 1900, 1898",Release Date
+"Through the connection Michel Auclair → Funny Face → ?, which final entity emerges?",Michel Auclair,"The Great Dictator, United States of America, P G",Relational Chain
+Who was in the cast of Modern Times?,Al Ernest Garcia,"Lew Ayres, Mary Philbin, Harpo Marx",Actor Question
+Which director was responsible for Bride Of Frankenstein?,James Whale,"Howard Hawks, Alfred Hitchcock, William A. Wellman",Director Question
+Topaz was directed by whom?,Alfred Hitchcock,"Ernst Lubitsch, James Whale, Frank Capra",Director Question
+Name an actor from Horse Feathers.,The Marx Brothers,"Alexander Granach, Mary Philbin, Arthur Edmund Carewe",Actor Question
+Who was in the cast of Nosferatu?,Alexander Granach,"Henry Bergman, Dwight Frye, Chico Marx",Actor Question
+Which actor appeared in The Kid?,Nellie Bly Baker,"Werner Krauss, Edward Biby, Gösta Ekman",Actor Question
+Name an actor from witness for the Prosecution.,Marlene Dietrich,"Mildred Davis, Eugene Silvain, Kurt Gerron",Actor Question
+What is the release year of Jeff Richards?,1924,"1899, 1925, 1923",Release Date
+Name an actor from The Circus.,Al Ernest Garcia,"Chico Marx, Colin Clive, Arnold Lucy",Actor Question
+Who was in the cast of all Quiet on the Western Front?,Lew Ayres,"Carl Miller, Conrad Veidt, Al Ernest Garcia",Actor Question
+The 39 Steps was directed by whom?,Alfred Hitchcock,"Luis Buñuel, Clyde Bruckman, Sam Wood",Director Question
+L' Atalante was directed by whom?,Jean Vigo,"Alfred Hitchcock, Charles Chaplin",Director Question
+What is the release year of Sabu?,1924,"1899, 1925, 1923",Release Date
+Who directed the movie the Trouble with Harry?,Alfred Hitchcock,"Rouben Mamoulian, Josef von Sternberg, Charles Chaplin",Director Question
+Who was in the cast of Faust?,Gösta Ekman,"Mildred Davis, Emil Jannings, Bodil Rosing",Actor Question
+In which year did Stanley Donen come out?,1924,"1899, 1925, 1923",Release Date
+Identify the director of Ordet.,Carl Theodor Dreyer,"Frank Capra, F W Murnau, Lon Chaney",Director Question
+When was Vivean Gray released?,1924,"1899, 1925, 1923",Release Date
+Which director was responsible for Swing Time?,George Stevens,"Clyde Bruckman, Alfred Hitchcock, Rupert Julian",Director Question
+"Through the connection Richard Chamberlain → The Towering Inferno → ?, which final entity emerges?",PG,"Kay Thompson, 20th Century Fox",Relational Chain
+Who directed the movie The Petrified Forest?,Archie Mayo,"Charles Reisner, George Stevens, Luis Buñuel",Director Question
+Name an actor from Battleship Potemkin.,Aleksandr Antonov,"Arthur Edmund Carewe, David Manners, Edward Biby",Actor Question
+Identify the director of The Great Dictator.,Charles Chaplin,"Alfred Hitchcock, Howard Hawks",Director Question
+Which director was responsible for Vampyr?,Carl Theodor Dreyer,"Charles Chaplin, Howard Hawks, Alfred Hitchcock",Director Question
+Which actor appeared in The Kid?,Beulah Bains,"André Berley, Joe Keaton, Alexander Granach",Actor Question
+What is the release year of Dwight Frye?,1899,"1924, 1900, 1898",Release Date
+When was Bill Roberts released?,1899,"1924, 1900, 1898",Release Date
+"In Horse Feathers directed by norman Z Mc Leod, who was one of the main actors?",The Marx Brothers,"Harpo Marx, Werner Krauss, Mary Philbin",Director-Actor Chain
+Which director was responsible for The Thin Man?,w S Van Dyke,"Charles Chaplin, W.S. Van Dyke, Sam Wood",Director Question
+Who starred in The Kid?,Henry Bergman,"Eugene Silvain, Albert Austin, Jack Adams",Actor Question
+Which actor appeared in Sam Wood's film a Night at the Opera?,Chico Marx,"Edna Purviance, Groucho Marx, Conrad Veidt",Director-Actor Chain
+Frenzy was directed by whom?,Alfred Hitchcock,"Sam Wood, Josef von Sternberg, Luis Buñuel",Director Question
+"In Frankenstein directed by James Whale, who was one of the main actors?",Mae Clarke,"The Marx Brothers, Chico Marx, Harold Lloyd",Director-Actor Chain
+Who starred in The Gold Rush?,Mack Swain,"Aleksandr Antonov, André Berley, Bela Lugosi",Actor Question
+"In The Gold Rush directed by Charles Chaplin, who was one of the main actors?",Jack Adams,"Maurice Schutz, Marlene Dietrich, Bodil Rosing",Director-Actor Chain
+Who was in the cast of a Night at the Opera?,Groucho Marx,"Maurice Schutz, Bill Strother, Gustav von Wangenheim",Actor Question
+When was Jean Gruault released?,1924,"1899, 1925, 1923",Release Date
+Which actor appeared in all Quiet on the Western Front?,Arnold Lucy,"The Marx Brothers, Max Schreck, Max Ernst",Actor Question
+"In The Kid directed by Charles Chaplin, who was one of the main actors?",Nellie Bly Baker,"Boris Karloff, Harry Myers, George Davis",Director-Actor Chain
+Who starred in The Circus?,Steve Murphy,"Lon Chaney, Lillian Gish, Kurt Gerron",Actor Question
+In which year did Truman Capote come out?,1924,"1899, 1925, 1923",Release Date
+Who was in the cast of The General?,Jim Farley,"Malcolm Waite, Werner Krauss, Bela Lugosi",Actor Question
+Identify the director of Red River.,Howard Hawks,"Merian C. Cooper, Alfred Hitchcock, Leo McCarey",Director Question
+"Given that Fred Astaire is related to Funny Face, and Funny Face is related to Leonard Gershe, what is the final entity connected to Fred Astaire?",Leonard Gershe,"French, Intolerance: Love's Struggle Throughout the Ages, The Birth of a Nation",Relational Chain
+Identify the release date of Pat O' Brien.,1899,"1924, 1900, 1898",Release Date
+Who was in the cast of The Last Laugh?,Emilie Kurz,"Mack Swain, Harpo Marx, Max Ernst",Actor Question
+Who directed the movie the Man Who Knew Too Much?,Alfred Hitchcock,"Carl Theodor Dreyer, Frank Lloyd, George Stevens",Director Question
+Who starred in the Birth of a Nation?,Lillian Gish,"Merna Kennedy, Carl Miller, Boris Karloff",Actor Question
+Identify the release date of George O' Brien.,1899,"1924, 1900, 1898",Release Date
+Identify the release date of Humphrey Cobb.,1899,"1924, 1900, 1898",Release Date
+Identify the director of Marnie.,Alfred Hitchcock,"Archie Mayo, Charles Chaplin, Jean Renoir",Director Question
+Which actor appeared in F W Murnau's film The Last Laugh?,Maly Delschaft,"Bela Lugosi, Friedrich Feher, Groucho Marx",Director-Actor Chain
+"Name an actor from Sunrise, a film by F W Murnau.",Margaret Livingston,"Groucho Marx, The Marx Brothers, Harpo Marx",Director-Actor Chain
+"In the Phantom of the Opera directed by Lon Chaney, who was one of the main actors?",Norman Kerry,"Henry Bergman, Mildred Davis, Groucho Marx",Director-Actor Chain
+"In the Cabinet of Dr Caligari directed by Robert Wiene, who was one of the main actors?",Conrad Veidt,"Henry Bergman, Edna Purviance, Charles Chaplin",Director-Actor Chain
+Name an actor from intolerance Love's Struggle Throughout the Ages.,Mae Marsh,"Henry Bergman, Emil Jannings, F A Turner",Actor Question
+Name an actor from City Lights.,Florence Lee,"The Marx Brothers, Mae Marsh, Janet Gaynor",Actor Question
+What is the release year of Joseph Ruskin?,1924,"1899, 1925, 1923",Release Date
+Which actor appeared in The Last Laugh?,Maly Delschaft,"Werner Krauss, Henry Bergman, David Manners",Actor Question
+Which actor appeared in The Kid?,Edward Biby,"Virginia Cherrill, F A Turner, Nellie Bly Baker",Actor Question
+"In Safety Last directed by Fred C Newmeyer, who was one of the main actors?",Bill Strother,"Bela Lugosi, Boris Karloff, Frida Richard",Director-Actor Chain
+"Given that The Cabinet of Dr. Caligari is related to Robert Wiene, and Robert Wiene is related to The Cabinet of Dr. Caligari, what is the final entity connected to The Cabinet of Dr. Caligari?",The Cabinet of Dr. Caligari,"20th Century Fox, Stanley Donen, French",Relational Chain
+Monkey Business was directed by whom?,Howard Hawks,"Carl Theodor Dreyer, Fritz Lang, F W Murnau",Director Question
+What is the release year of Marlon Brando?,1924,"1899, 1925, 1923",Release Date
+When was Sam Rolfe released?,1924,"1899, 1925, 1923",Release Date
+What is the release year of Chief Dan George?,1899,"1924, 1900, 1898",Release Date
+Identify the director of a Night at the Opera.,Sam Wood,"George Stevens, Charles Chaplin, Alfred Hitchcock",Director Question
+When was Charles Aznavour released?,1924,"1899, 1925, 1923",Release Date
+Name an actor from The General.,Glen Cavender,"Harry Myers, Al Ernest Garcia, Mary Philbin",Actor Question
+Which actor appeared in Fred C Newmeyer's film Safety Last?,Mildred Davis,"Groucho Marx, Camilla Horn, Lillian Gish",Director-Actor Chain
+Which actor appeared in City Lights?,Charles Chaplin,"Albert Austin, Mae Clarke, Emil Jannings",Actor Question
+gone with the Wind was directed by whom?,Sam Wood,"George Stevens, Tod Browning, Howard Hawks",Director Question
+What is the release year of Machiko Kyô?,1924,"1899, 1925, 1923",Release Date
+"Through the connection Kay Thompson → Funny Face → ?, which final entity emerges?",Stanley Donen,"NOT RATED, English, Limelight",Relational Chain
+Scarlet Street was directed by whom?,Fritz Lang,"Lewis Milestone, Charles Chaplin, Ernst Lubitsch",Director Question
+What is the release year of Dorothy Yost?,1899,"1924, 1900, 1898",Release Date
+Which director was responsible for Dracula?,Tod Browning,"Fritz Lang, Mark Sandrich, Richard Rosson",Director Question
+In which year did C S Forester come out?,1899,"1924, 1900, 1898",Release Date
+Who was in the cast of the Cabinet of Dr Caligari?,Lil Dagover,"Marlene Dietrich, Henry Bergman, Steve Murphy",Actor Question
+Who was in the cast of Dracula?,David Manners,"Al Ernest Garcia, Groucho Marx, Henry Bergman",Actor Question
+Name an actor from The Blue Angel.,Emil Jannings,"F A Turner, Malcolm Waite, Arnold Lucy",Actor Question
+What is the release year of Dan Sturkie?,1924,"1899, 1925, 1923",Release Date
+Which director was responsible for dr Jekyll and Mr Hyde?,Rouben Mamoulian,"Howard Hawks, Lon Chaney, Charles Chaplin",Director Question
+Which actor appeared in Charles Chaplin's film City Lights?,Harry Myers,"Gustav Fröhlich, Maurice Schutz, The Marx Brothers",Director-Actor Chain
+Identify the director of the Woman in the Window.,Fritz Lang,"Jean Renoir, Sam Wood, Howard Hawks",Director Question
+When was Claude Sautet released?,1924,"1899, 1925, 1923",Release Date
+The Mummy was directed by whom?,Karl Freund,"Carl Theodor Dreyer, Alfred Hitchcock, Michael Curtiz",Director Question
+Who starred in The Blue Angel?,Marlene Dietrich,"Mae Clarke, Emil Jannings, David Manners",Actor Question
+Who directed the movie Safety Last?,Sam Taylor,"Howard Hawks, Charles Chaplin, George Stevens",Director Question
+Who was in the cast of the Thief of Bagdad?,Conrad Veidt,"Chico Marx, Marlene Dietrich, David Manners",Actor Question
+"If The Birth of a Nation connects through D.W. Griffith, which entity is ultimately linked?",Intolerance: Love's Struggle Throughout the Ages,"Robert Flemyng, French, Leonard Gershe",Relational Chain
+the Passion of Joan of Arc was directed by whom?,Carl Theodor Dreyer,"Ernst Lubitsch, Frank Capra",Director Question
+"Given that Fred Astaire is related to The Towering Inferno, and The Towering Inferno is related to United States of America, what is the final entity connected to Fred Astaire?",United States of America,"P G, The Great Dictator",Relational Chain
+Who was in the cast of the Cabinet of Dr Caligari?,Conrad Veidt,"Charles Chaplin, Henry B. Walthall, Rudolf Klein-Rogge",Actor Question
+Who was in the cast of all Quiet on the Western Front?,John Wray,"Lew Ayres, Bela Lugosi, Ernest Torrence",Actor Question
+When was William Absalom Drake released?,1899,"1924, 1900, 1898",Release Date
+Who was in the cast of l' Age d' Or?,Caridad De Laberdesque,"Robert Harron, The Marx Brothers, Conrad Veidt",Actor Question
+Identify the release date of Ron Moody.,1924,"1899, 1925, 1923",Release Date
+Who starred in The Circus?,Tiny Sandford,"Werner Krauss, Lil Dagover, Robert Harron",Actor Question
+Who starred in The Circus?,Henry Bergman,"Groucho Marx, Max Schreck, Gösta Ekman",Actor Question
+"In The Blue Angel directed by Josef Von Sternberg, who was one of the main actors?",Kurt Gerron,"Boris Karloff, Lil Dagover, Tiny Sandford",Director-Actor Chain
+Who directed the movie M?,Fritz Lang,"Alfred Hitchcock, Sam Wood, James Whale",Director Question
+In which year did R S Allen come out?,1924,"1899, 1925, 1923",Release Date
+Identify the director of The Lady Vanishes.,Alfred Hitchcock,"Luis Buñuel, Howard Hawks, Leo McCarey",Director Question
+When was Massimo Franciosa released?,1924,"1899, 1925, 1923",Release Date
+Name an actor from the Phantom of the Opera.,Mary Philbin,"David Manners, Chico Marx, Maurice Schutz",Actor Question
+Who was in the cast of the Birth of a Nation?,Henry B Walthall,"Lil Dagover, Al Ernest Garcia, John Wray",Actor Question
+Identify the director of Faust.,F W Murnau,"Alfred Hitchcock, Charles Chaplin, Howard Hawks",Director Question
+Who directed the movie all Quiet on the Western Front?,Lewis Milestone,"Luis Buñuel, Archie Mayo, Fritz Lang",Director Question
+Who directed the movie the Phantom of the Opera?,Rupert Julian,"Michael Curtiz, Tod Browning, Victor Heerman",Director Question
+What is the release year of Sam Spewack?,1899,"1924, 1900, 1898",Release Date
+Name an actor from Animal Crackers.,Harpo Marx,"Bela Lugosi, Henry Bergman, Lil Dagover",Actor Question
+Who was in the cast of a Day at the Races?,Groucho Marx,"Gösta Ekman, John Wray, Chico Marx",Actor Question
+"If Steve McQueen connects through The Towering Inferno, which entity is ultimately linked?",John Guillermin,"20th Century Fox, French, P G",Relational Chain
+Which actor appeared in Edward Sedgwick's film the Phantom of the Opera?,Mary Philbin,"Lew Ayres, Glen Cavender, André Berley",Director-Actor Chain
+Who was in the cast of Battleship Potemkin?,Vladimir Barskiy,"Werner Krauss, Steve Murphy, Emil Jannings",Actor Question
+What is the release year of Matsutarô Kawaguchi?,1899,"1924, 1900, 1898",Release Date
+Identify the release date of Charles Laughton.,1899,"1924, 1900, 1898",Release Date
+"Through the connection Kay Thompson → Funny Face → ?, which final entity emerges?",Paramount Pictures,"P G, Leonard Gershe, The Birth of a Nation",Relational Chain
+When was Jay C Flippen released?,1899,"1924, 1900, 1898",Release Date
+"Name an actor from The Kid, a film by Charles Chaplin.",Carl Miller,"Charles Chaplin, Mae Marsh, Al Ernest Garcia",Director-Actor Chain
+Who directed the movie Bringing Up Baby?,Howard Hawks,"Fritz Lang, Alfred Hitchcock",Director Question
+What is the release year of Norman Alden?,1924,"1899, 1925, 1923",Release Date
+"In the Birth of a Nation directed by D W Griffith, who was one of the main actors?",Henry B Walthall,"Bela Lugosi, Norman Kerry, Charles Chaplin",Director-Actor Chain
+Which actor appeared in intolerance Love's Struggle Throughout the Ages?,Robert Harron,"Janet Gaynor, Buster Keaton, Bodil Rosing",Actor Question
+Which actor appeared in Sunrise?,Margaret Livingston,"Rosa Valetti, Charles Chaplin, Max Ernst",Actor Question
+Who directed the movie Top Hat?,Mark Sandrich,"Ernst Lubitsch, Frank Lloyd, Alfred Hitchcock",Director Question
+Who was in the cast of Faust?,Camilla Horn,"Charles Chaplin, Bela Lugosi, Harpo Marx",Actor Question
+Identify the director of Sergeant York.,Howard Hawks,"Archie Mayo, Alfred Hitchcock, Michael Curtiz",Director Question
+Which director was responsible for the Ox Bow Incident?,William A Wellman,"Luis Buñuel, Jean Renoir, Carl Theodor Dreyer",Director Question
+Psycho was directed by whom?,Alfred Hitchcock,"Frank Capra, Carl Theodor Dreyer, Michael Curtiz",Director Question
+What is the release year of Louis Cha?,1924,"1899, 1925, 1923",Release Date
+Which actor appeared in The Gold Rush?,Malcolm Waite,"Harpo Marx, Boris Karloff, Emilie Kurz",Actor Question
+"In Metropolis directed by Fritz Lang, who was one of the main actors?",Alfred Abel,"Marlene Dietrich, Maurice Schutz, Bela Lugosi",Director-Actor Chain
+"Through the connection Michel Auclair → Funny Face → ?, which final entity emerges?",Audrey Hepburn,"United States of America, The Night of the Hunter, P G",Relational Chain
+When was Leslie Phillips released?,1924,"1899, 1925, 1923",Release Date
+What is the release year of Vladlen Bakhnov?,1924,"1899, 1925, 1923",Release Date
+Identify the release date of Nevil Shute.,1899,"1924, 1900, 1898",Release Date
+Who was in the cast of Limelight?,Buster Keaton,"Marion Mack, Florence Lee, Mary Philbin",Actor Question
+"Name an actor from Stage Fright, a film by Alfred Hitchcock.",Marlene Dietrich,"Gustav von Wangenheim, Maurice Schutz, Camilla Horn",Director-Actor Chain
+Who starred in Nosferatu?,Gustav Von Wangenheim,"Harpo Marx, Max Ernst, Gösta Ekman",Actor Question
+Which director was responsible for Nosferatu?,F W Murnau,"Mark Sandrich, Howard Hawks, Alfred Hitchcock",Director Question
+Which actor appeared in Sunrise?,Bodil Rosing,"Chico Marx, Tom McGuire, Rudolf Klein-Rogge",Actor Question
+Who starred in Duck Soup?,Chico Marx,"Glen Cavender, Alexander Granach, Groucho Marx",Actor Question
+"If Intolerance: Love's Struggle Throughout the Ages connects through Mae Marsh, which entity is ultimately linked?",The Birth of a Nation,"United States of America, Stirling Silliphant",Relational Chain
+Which director was responsible for Frankenstein?,James Whale,"Sam Wood, Lewis Milestone, Alfred Hitchcock",Director Question
+"Given that Irwin Allen is related to The Towering Inferno, and The Towering Inferno is related to United States of America, what is the final entity connected to Irwin Allen?",United States of America,"Audrey Hepburn, Romance, 20th Century Fox",Relational Chain
+Name an actor from Limelight.,Charles Chaplin,"Alexander Granach, Rosa Valetti, Beulah Bains",Actor Question
+dial M for Murder was directed by whom?,Alfred Hitchcock,"Fritz Lang, Charles Chaplin, Dziga Vertov",Director Question
+"Name an actor from The Last Laugh, a film by F W Murnau.",Emil Jannings,"Boris Karloff, Frank Aderias, Charles Chaplin",Director-Actor Chain
+When was George Macready released?,1899,"1924, 1900, 1898",Release Date
+Who starred in Steamboat Bill Jr?,Ernest Torrence,"Camilla Horn, Steve Murphy, Groucho Marx",Actor Question
+When was Fred Astaire released?,1899,"1924, 1900, 1898",Release Date
+"In The Kid directed by Charles Chaplin, who was one of the main actors?",Jackie Coogan,"Marlene Dietrich, Chico Marx, Jim Farley",Director-Actor Chain
+In which year did Katy Jurado come out?,1924,"1899, 1925, 1923",Release Date
+Who was in the cast of The General?,Buster Keaton,"Henry Bergman, Maly Delschaft, Merna Kennedy",Actor Question
+Name an actor from a Night at the Opera.,Harpo Marx,"Henry B. Walthall, Janet Gaynor, Al Ernest Garcia",Actor Question
+In which year did Tony Geiss come out?,1924,"1899, 1925, 1923",Release Date
+"In the Phantom of the Opera directed by Edward Sedgwick, who was one of the main actors?",Arthur Edmund Carewe,"Charles Chaplin, George O'Brien, Chico Marx",Director-Actor Chain
+In which year did Anne Vernon come out?,1924,"1899, 1925, 1923",Release Date
+"In the Phantom of the Opera directed by Rupert Julian, who was one of the main actors?",Norman Kerry,"Rosa Valetti, Henry Bergman, Maly Delschaft",Director-Actor Chain
+"Name an actor from Sherlock Jr, a film by Buster Keaton.",Kathryn Mc Guire,"Georgia Hale, Harold Lloyd, Boris Karloff",Director-Actor Chain
+When was Vera Caspary released?,1899,"1924, 1900, 1898",Release Date
+Which actor appeared in The Circus?,Merna Kennedy,"F A Turner, Malcolm Waite, Rudolf Klein-Rogge",Actor Question
+Name an actor from Frankenstein.,Mae Clarke,"Rudolf Klein-Rogge, Groucho Marx, Charles Chaplin",Actor Question
+Identify the director of Steamboat Bill Jr.,Buster Keaton,"Leo McCarey, Frank Capra, James Whale",Director Question
+Who was in the cast of a Day at the Races?,Chico Marx,"Gustav von Wangenheim, Charles Chaplin, Vladimir Barskiy",Actor Question
+Name an actor from the Passion of Joan of Arc.,André Berley,"Merna Kennedy, Harpo Marx, David Manners",Actor Question
+Identify the release date of Marcel Achard.,1899,"1924, 1900, 1898",Release Date
+Identify the director of it's a Wonderful Life.,Frank Capra,"W.S. Van Dyke, Ernst Lubitsch, Buster Keaton",Director Question
+Identify the director of Yankee Doodle Dandy.,Michael Curtiz,"Alfred Hitchcock, Sam Wood",Director Question
+"Given that Fred Astaire is related to Funny Face, and Funny Face is related to United States of America, what is the final entity connected to Fred Astaire?",United States of America,"Intolerance: Love's Struggle Throughout the Ages, 20th Century Fox, Leonard Gershe",Relational Chain
+Which director was responsible for The Big Heat?,Fritz Lang,"Frank Lloyd, Merian C. Cooper, W.S. Van Dyke",Director Question
+Which director was responsible for the Birth of a Nation?,D W Griffith,"W.S. Van Dyke, Ernest B. Schoedsack, Charles Chaplin",Director Question
+Who starred in the Passion of Joan of Arc?,Eugene Silvain,"Virginia Cherrill, Henry Bergman, Gösta Ekman",Actor Question
+Which director was responsible for Trouble In Paradise?,Ernst Lubitsch,"Alfred Hitchcock, Michael Curtiz, Buster Keaton",Director Question
+What is the release year of Rian James?,1899,"1924, 1900, 1898",Release Date
+Who directed the movie Animal Crackers?,Victor Heerman,"Frank Lloyd, Carl Theodor Dreyer, Alfred Hitchcock",Director Question
+Which director was responsible for the Adventures of Robin Hood?,Michael Curtiz,"Alfred Hitchcock, Howard Hawks, Fred C. Newmeyer",Director Question
+In which year did Charles Boyer come out?,1899,"1924, 1900, 1898",Release Date
+What is the release year of Marcello Mastroianni?,1924,"1899, 1925, 1923",Release Date
+"Through the connection Michel Auclair → Funny Face → ?, which final entity emerges?",Leonard Gershe,"Stanley Donen, Richard Martin Stern, English",Relational Chain
+Which actor appeared in F W Murnau's film Faust?,Gösta Ekman,"Bela Lugosi, Harold Lloyd, Tom Murray",Director-Actor Chain
+Identify the director of Metropolis.,Fritz Lang,"Frank Capra, Luis Buñuel, Alfred Hitchcock",Director Question
+In which year did Eddie Smith come out?,1924,"1899, 1925, 1923",Release Date
+Which actor appeared in The Mummy?,David Manners,"Mary Philbin, Emilie Kurz, Groucho Marx",Actor Question
+"Name an actor from the Cabinet of Dr Caligari, a film by Robert Wiene.",Lil Dagover,"Conrad Veidt, George Davis, Henry B. Walthall",Director-Actor Chain
+Who was in the cast of the Phantom of the Opera?,Arthur Edmund Carewe,"Maurice Schutz, Chico Marx, Buster Keaton",Actor Question
+"Name an actor from l' Age d' Or, a film by Luis Buñuel.",Caridad De Laberdesque,"Harpo Marx, Caridad de Laberdesque, Charles Chaplin",Director-Actor Chain
+"Name an actor from the Phantom of the Opera, a film by Edward Sedgwick.",Norman Kerry,"Florence Lee, Edna Purviance, Tom Murray",Director-Actor Chain
+"Name an actor from Modern Times, a film by Charles Chaplin.",Al Ernest Garcia,"Charles Chaplin, Grigoriy Aleksandrov, Lew Ayres",Director-Actor Chain
+In which year did Robert Bolt come out?,1924,"1899, 1925, 1923",Release Date
+Identify the director of Giant.,George Stevens,"Merian C. Cooper, Archie Mayo, Carl Theodor Dreyer",Director Question
+Identify the director of Captain Blood.,Michael Curtiz,"Charles Chaplin, Fritz Lang, Alfred Hitchcock",Director Question
+Who starred in Metropolis?,Rudolf Klein Rogge,"Groucho Marx, David Manners, Charles Chaplin",Actor Question
+Name an actor from The Kid.,Edna Purviance,"Henry Bergman, Aleksandr Antonov, The Marx Brothers",Actor Question
+Which actor appeared in Charles Chaplin's film The Gold Rush?,Malcolm Waite,"Frank Aderias, Groucho Marx, Tiny Sandford",Director-Actor Chain
+Who was in the cast of The Kid?,Jackie Coogan,"Ernest Torrence, Harpo Marx, Glen Cavender",Actor Question
+Name an actor from The Gold Rush.,Charles Chaplin,"Jim Farley, Maly Delschaft, Chico Marx",Actor Question
+Which director was responsible for The General?,Clyde Bruckman,"Michael Curtiz, Victor Heerman, George Stevens",Director Question
+Who directed the movie Mildred Pierce?,Michael Curtiz,"Charles Chaplin, Clyde Bruckman, Charles Reisner",Director Question
+When was Roberts Blossom released?,1924,"1899, 1925, 1923",Release Date
+Identify the release date of Richard Hooker.,1924,"1899, 1925, 1923",Release Date
+"Given that Leonard Gershe is related to Funny Face, and Funny Face is related to English, what is the final entity connected to Leonard Gershe?",English,"Michel Auclair, Leonard Gershe, Kay Thompson",Relational Chain
+"In Nosferatu directed by F W Murnau, who was one of the main actors?",Max Schreck,"Mae Clarke, Kurt Gerron, Marlene Dietrich",Director-Actor Chain
+Who was in the cast of The Last Laugh?,Emil Jannings,"Charles Chaplin, Lew Ayres, Werner Krauss",Actor Question
+Identify the release date of John Gay.,1924,"1899, 1925, 1923",Release Date
+Name an actor from Safety Last.,Mildred Davis,"Bela Lugosi, Arnold Lucy, Janet Gaynor",Actor Question
+What is the release year of Sylvia Miles?,1924,"1899, 1925, 1923",Release Date
+"In the Phantom of the Opera directed by Ernst Laemmle, who was one of the main actors?",Norman Kerry,"Beulah Bains, Boris Karloff, Max Ernst",Director-Actor Chain
+When was W R Burnett released?,1899,"1924, 1900, 1898",Release Date
+"Name an actor from Vampyr, a film by Carl Theodor Dreyer.",Maurice Schutz,"Max Hiller, Marlene Dietrich, Noah Young",Director-Actor Chain
+Which actor appeared in The Blue Angel?,Rosa Valetti,"Buster Keaton, Charles Chaplin",Actor Question
+Which actor appeared in The General?,Marion Mack,"Ernest Torrence, Harry Myers, Norman Kerry",Actor Question
+Name an actor from Bride Of Frankenstein.,Colin Clive,"Maurice Schutz, Gustav von Wangenheim, Groucho Marx",Actor Question
+Who directed the movie Saboteur?,Alfred Hitchcock,"Luis Buñuel, Sam Taylor, Howard Hawks",Director Question
+the Phantom of the Opera was directed by whom?,Lon Chaney,"Ernst Lubitsch, Fritz Lang, Charles Reisner",Director Question
+"In The Kid directed by Charles Chaplin, who was one of the main actors?",F Blinn,"Henry Bergman, Marlene Dietrich, Charles Chaplin",Director-Actor Chain
+Name an actor from Faust.,Emil Jannings,"Harpo Marx, Al Ernest Garcia, Charles Chaplin",Actor Question
+Which director was responsible for you Can't Take It with You?,Frank Capra,"Sam Wood, W.S. Van Dyke, Jean Vigo",Director Question
+"In Frankenstein directed by James Whale, who was one of the main actors?",Boris Karloff,"Janet Gaynor, Kathryn McGuire, Buster Keaton",Director-Actor Chain
+"Through the connection Robert Flemyng → Funny Face → ?, which final entity emerges?",United States of America,"Limelight, Stanley Donen, John Guillermin",Relational Chain
+Who starred in The Kid?,Carl Miller,"Mae Marsh, Boris Karloff, Friedrich Feher",Actor Question
+Who directed the movie Limelight?,Charles Chaplin,"Buster Keaton, Fritz Lang, Alfred Hitchcock",Director Question
+Identify the director of Rear Window.,Alfred Hitchcock,"George Stevens, Sam Wood, Sam Taylor",Director Question
+When was Byron Haskin released?,1899,"1924, 1900, 1898",Release Date
+"In The Gold Rush directed by Charles Chaplin, who was one of the main actors?",Tom Murray,"Kathryn McGuire, Marlene Dietrich, Chico Marx",Director-Actor Chain
+Identify the director of the Rules of the Game.,Jean Renoir,"Frank Capra, Howard Hawks, Sam Wood",Director Question
